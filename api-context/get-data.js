@@ -4,10 +4,7 @@ export function fetchData(params) {
     fetch('https://api.dryg.net/dagar/v2.1/' + params)
         .then(res => res.json())
         .then(data => {   
-            
-            let yearsData = data;
-    
-            return yearsData;
+            console.log(data);
     
     
     

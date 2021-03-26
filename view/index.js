@@ -1,3 +1,2 @@
-import {CalendarView} from './calender-view.js';
-import {  MainView  } from './main-view.js';
-
+export {CalendarView} from './calender-view.js';
+export {MainView} from './main-view.js';
