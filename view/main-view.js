@@ -3,6 +3,7 @@
 
 export function MainView() {
     // --MAIN VIEW--
+    let main = document.getElementById('main');
     let headerTitle = document.getElementById('header-title');
     //Give Style
     headerTitle.parentElement.style.backgroundColor = 'yellow';
