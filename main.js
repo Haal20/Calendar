@@ -1,3 +1,5 @@
+//@ts-check
+
 import {CalendarView, MainView} from './view/index.js';
 //import {CalendarView} from './view/calender-view.js';
 //import {MainView} from './view/main-view.js';

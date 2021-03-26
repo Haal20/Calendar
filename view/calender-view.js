@@ -1,4 +1,4 @@
-
+//@ts-check
 
 export function CalendarView(e) {
     e.preventDefault()
